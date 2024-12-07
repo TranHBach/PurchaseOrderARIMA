@@ -1,0 +1,3 @@
+LinAlgError for product 797 with order (2,0,2): LU decomposition error.
+LinAlgError for product 976 with order (3,0,1): LU decomposition error.
+LinAlgError for product 962 with order (2,0,0): LU decomposition error.

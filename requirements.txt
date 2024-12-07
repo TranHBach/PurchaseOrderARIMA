@@ -1,0 +1,6 @@
+statsmodels
+pmdarima
+pandas
+numpy
+matplotlib
+datetime
